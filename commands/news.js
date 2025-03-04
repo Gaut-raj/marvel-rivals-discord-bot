@@ -1,1 +1,4 @@
-const url = 
+import ('../utils/fetchNews');
+
+const prefix = "!";
+
